@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6b8100550c16b8f736b32978",
+  "owner": "xrfqywhwctd",
+  "repo": "page-e2cfac75ee0b47b23f2eb779",
+  "title": "FastLink",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e2cfac75ee0b47b23f2eb779",
+      "a": "FastLink",
+      "b": "2027最新官网",
+      "entity": "FastLink",
+      "brand": "FastLink",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f992abb033572504c1566982d79508249f479472cf9fddc8be2de857526db31b",
+      "content": {
+        "primary_entity": "FastLink",
+        "keyword1": "FastLink",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，月付与年付灵活切换。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并配备 IPLC 专线游戏加速，团队版每月 1000GB 流量支持 20 台设备。用户可根据设备数量和流量需求选择合适方案，按年付可节省更多费用。",
+          "AI_HERO_SUBTITLE": "多设备流量方案按需选择",
+          "AI_HERO_INTRO": "FastLink 提供多档海外加速套餐，涵盖基础版、旗舰版和团队版，月付可按年付切换。基础版适合轻量单人或小屏设备，旗舰版适合多设备与流媒体游戏用户，团队版面向多人共享与高带宽场景。",
+          "AI_VISUAL_TITLE": "FastLink 套餐与设备适配",
+          "AI_HIGHLIGHT_1": "月付年付灵活切换",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度选择适合的套餐版本。",
+          "AI_FEATURE_TITLE_1": "按设备数量选择版本",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，根据常用设备数量对应选择即可。",
+          "AI_FEATURE_TITLE_2": "按流量需求匹配套餐",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，按日常使用量选择合适档位。",
+          "AI_FEATURE_TITLE_3": "按年付节省订阅成本",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，长期使用选年付更经济。",
+          "AI_CLIENTS_TITLE": "客户端设备选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，依照客户端文档完成订阅导入与连接配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850，按设备和流量需求对比选择。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配、依客户端文档配置订阅，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，从基础版、旗舰版、团队版中选择一档并确定月付或年付。",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TEXT_2": "确认使用的设备系统在客户端支持范围内，并核对套餐允许的同时在线设备数量。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_STEP_TEXT_3": "下载对应客户端，依照客户端文档导入订阅信息并完成连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定套餐，参照客户端文档完成订阅配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "FastLink 套餐之间主要差异是什么？",
+          "AI_FAQ_ANSWER_1": "流量与设备数不同：基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台，团队版每月 1000GB 支持 20 台。旗舰版与团队版还包含流媒体解锁和专线优化。",
+          "AI_FAQ_QUESTION_2": "一个账号能否同时在多台设备上使用？",
+          "AI_FAQ_ANSWER_2": "可以，但同时在线数量受套餐限制：基础版 3 台、旗舰版 5 台、团队版 20 台。超出数量时需断开部分设备或升级套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付价格差多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于十个月费用，长期使用更划算。",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入 FastLink 订阅？",
+          "AI_FAQ_ANSWER_4": "选择与设备对应的客户端，复制订阅链接后在客户端的订阅或配置页面粘贴保存，刷新节点列表即可连接。具体步骤可查看客户端文档。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量达到套餐上限后，可等待下一个计费周期重置，或升级到更高流量档位。旗舰版与团队版提供更大流量额度，适合高消耗场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tqsua.cn",
+    "host": "tqsua.cn"
+  },
+  "file_hashes": {
+    "index.html": "54cb1a43467a81f9dbb6908c9efce058231172faaee262113f3fe99c9f243c04",
+    "sitemap.xml": "0df38c1c1745b7dcb7393d9b82f768672fae1bd6a9aa8c493228f59266ddc8ab",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a23bd3cdc01a3ee29cc48ba5805985af0397f7abeec7dc772d723ab1f29b7a27",
+    "robots.txt": "6eefb0053396bd661ac16d575fd78beb62fc1fc003988b5ff2fa1545cf77c450",
+    "64f768743e78480f7297b9809b650cf0.txt": "0b53f04927b09e012a15631116d76c920b538a72f4940a6a6b8af32279634ef7"
+  },
+  "revision": "64cb600bb833317b61075d5a65652aa6fd2c970d9a0fbee154a53ed1a82281a9"
+}
